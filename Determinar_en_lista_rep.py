@@ -5,7 +5,6 @@ def lista_sin_rep(listaev):
     return len(listaev) == len(set(listaev))  # Convierte la lista en una lista sin repetidos y compara longitudes
 
 
-
 listaev = input("Ingresa los elementos de la lista separados por espacios o  por una coma (,): ").split("" or ",")
 
 if lista_sin_rep(listaev):
