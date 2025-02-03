@@ -50,9 +50,9 @@ def buscar_cadenas_sin_vocales(lista):
     else:
         print("No hay cadenas sin vocales.")
 
-# Ejemplo de uso
-lista = ["hmm", "bcd", "xyz", "hello", "sky", "rhythm"]
+
+lista = ["hmm", "bcd", "xyz", "hola", "cielo", "ritmo"]
 buscar_cadenas_sin_vocales(lista)
 
 
-#4. Econtrar elemento mas repetido de la lista
+
